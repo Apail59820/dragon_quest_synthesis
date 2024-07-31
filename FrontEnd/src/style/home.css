@@ -1,0 +1,12 @@
+.mainContainer {
+
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+
+    .title {
+        text-align: center;
+        font-size: 38px;
+        font-weight: bold;
+    }
+}
